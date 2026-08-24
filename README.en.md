@@ -40,7 +40,18 @@ Distinctive volume, axes, curves, interlocks, overlaps, occlusions, and negative
 
 These samples demonstrate the 045 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why this Skill exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 045 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Rebuild the source as a gentle tactile block sculpture |
+| **Recognizable signature** | ROUNDED MODULE · SOURCE COLOUR · ISOMETRIC DEPTH · MATTE TOUCH · EDITORIAL MICROTYPE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 The style is source-dependent, not a decorative preset. Its operative transformation is:
 
@@ -50,7 +61,7 @@ analyse volume, axis, curves, overlap, and negative space → preserve three def
 
 If an unrelated photograph could replace the source without materially changing recognition, construction, placement, material, colour, whitespace, and copy, the result does not belong to this Panel.
 
-## The visual contract
+## What makes the finished style recognizable
 
 - Preserve at least three cues across overall volume, proportion, axis, curve, pose, direction, overlap, occlusion, opening, negative space, or relation.
 - Use rounded, simple, tactile modular masses with real isometric depth. Stack, join, nest, cross, float, or gently misalign them according to source structure, not mechanical exploded parts.
