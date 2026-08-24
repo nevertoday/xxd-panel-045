@@ -20,6 +20,26 @@
 
 Distinctive volume, axes, curves, interlocks, overlaps, occlusions, and negative spaces become rounded tactile modules in a gentle isometric sculpture, coloured only from the source's own visual memory.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091180646626627732) · 22 August 2026<br>
+> GPT2 × blocks × reconstruction × aesthetic prompt × VOL.045
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091180646626627732"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 045 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091180646626627732"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 045 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091180646626627732"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 045 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091180646626627732"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 045 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091180646626627732">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 045 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why this Skill exists
 
 The style is source-dependent, not a decorative preset. Its operative transformation is:
@@ -40,26 +60,6 @@ If an unrelated photograph could replace the source without materially changing 
 - Use scale, height, depth, local suspension, density shifts, and whitespace to create one sculptural focus rather than a full toy scene.
 
 Aesthetic constraints and rejection rules live only in the [original source brief](references/045-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-045-prompt.en.md)
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091180646626627732) · 22 August 2026<br>
-> GPT2 × blocks × reconstruction × aesthetic prompt × VOL.045
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091180646626627732"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 045 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091180646626627732"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 045 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091180646626627732"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 045 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091180646626627732"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 045 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091180646626627732">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 045 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

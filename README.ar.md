@@ -20,26 +20,6 @@
 
 تتحول الكتلة والمحاور والمنحنيات والتعشيق والتراكب والحجب والفراغات السلبية المميزة إلى وحدات مدوّرة ملموسة في منحوتة إيزومترية لطيفة لا تستخدم إلا ذاكرة ألوان المصدر نفسه.
 
-## لماذا توجد هذه المهارة؟
-
-يعتمد الأسلوب على المصدر وليس قالباً زخرفياً يمكن تبديل محتواه. ويتبع سلسلة التحويل الآتية:
-
-```text
-analyse volume, axis, curves, overlap, and negative space → preserve three defining cues → simplify into rounded modular masses → compose through stacking, nesting, crossing, suspension, and source-earned misalignment → translate source colour into lighter cleaner healing hierarchy → render tactile matte pulp, wood, wax, or soft material → integrate microtype with seams and axes
-```
-
-إذا أمكن استبدال المصدر بصورة لا صلة لها من دون تغيير جوهري في التعرّف والبناء والموضع والمادة واللون والفراغ والنص، فالنتيجة لا تنتمي إلى هذا Panel.
-
-## العقد البصري
-
-- **الارتباط بالمصدر:** إعادة بناء المصدر كمنحوتة مكعبات لطيفة ملموسة
-- **بصمة الأسلوب:** وحدات مدوّرة · لون من المصدر · عمق إيزومتري · ملمس مطفأ · كتابة تحريرية دقيقة
-- **قابلية التعرّف:** تُحفظ ثلاث علامات خاصة بالمصدر على الأقل، ويجب أن تنتج الصورة غير المرتبطة بناءً مختلفاً جوهرياً.
-- **التكوين:** يحافظ على موضوع واحد أو علاقة لا تنفصل، وموضع مدعوم بالمصدر، وفراغ فعّال.
-- **المادة واللون:** يُشتقان من الصورة وفق توجيه الإنتاج الخاص بالمشروع، لا من قالب ثابت.
-
-لا توجد القيود الجمالية وقواعد الرفض إلا في [الموجّه الأصلي](references/045-source.md)، أما المهارة ومهايئ التشغيل فيعالجان متغيرات التسليم فقط. [Skill](SKILL.md) · [مهايئ التشغيل الإنجليزي](references/xxd-panel-045-prompt.en.md)
-
 ## النماذج · من X
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091180646626627732) · 22 أغسطس 2026<br>
@@ -59,6 +39,26 @@ analyse volume, axis, curves, overlap, and negative space → preserve three def
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091180646626627732">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
 
 تعرض هذه النماذج الدافع الجمالي للإصدار 045 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
+## لماذا توجد هذه المهارة؟
+
+يعتمد الأسلوب على المصدر وليس قالباً زخرفياً يمكن تبديل محتواه. ويتبع سلسلة التحويل الآتية:
+
+```text
+analyse volume, axis, curves, overlap, and negative space → preserve three defining cues → simplify into rounded modular masses → compose through stacking, nesting, crossing, suspension, and source-earned misalignment → translate source colour into lighter cleaner healing hierarchy → render tactile matte pulp, wood, wax, or soft material → integrate microtype with seams and axes
+```
+
+إذا أمكن استبدال المصدر بصورة لا صلة لها من دون تغيير جوهري في التعرّف والبناء والموضع والمادة واللون والفراغ والنص، فالنتيجة لا تنتمي إلى هذا Panel.
+
+## العقد البصري
+
+- **الارتباط بالمصدر:** إعادة بناء المصدر كمنحوتة مكعبات لطيفة ملموسة
+- **بصمة الأسلوب:** وحدات مدوّرة · لون من المصدر · عمق إيزومتري · ملمس مطفأ · كتابة تحريرية دقيقة
+- **قابلية التعرّف:** تُحفظ ثلاث علامات خاصة بالمصدر على الأقل، ويجب أن تنتج الصورة غير المرتبطة بناءً مختلفاً جوهرياً.
+- **التكوين:** يحافظ على موضوع واحد أو علاقة لا تنفصل، وموضع مدعوم بالمصدر، وفراغ فعّال.
+- **المادة واللون:** يُشتقان من الصورة وفق توجيه الإنتاج الخاص بالمشروع، لا من قالب ثابت.
+
+لا توجد القيود الجمالية وقواعد الرفض إلا في [الموجّه الأصلي](references/045-source.md)، أما المهارة ومهايئ التشغيل فيعالجان متغيرات التسليم فقط. [Skill](SKILL.md) · [مهايئ التشغيل الإنجليزي](references/xxd-panel-045-prompt.en.md)
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 
