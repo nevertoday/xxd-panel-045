@@ -14,16 +14,7 @@
 
 </div>
 
-<div>
-
-> ROUNDED MODULE · SOURCE COLOUR · ISOMETRIC DEPTH · MATTE TOUCH · EDITORIAL MICROTYPE
-
-Distinctive volume, axes, curves, interlocks, overlaps, occlusions, and negative spaces become rounded tactile modules in a gentle isometric sculpture, coloured only from the source's own visual memory.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091180646626627732) · 22 August 2026<br>
-> GPT2 × blocks × reconstruction × aesthetic prompt × VOL.045
 
 <table>
   <tr>
@@ -36,9 +27,18 @@ Distinctive volume, axes, curves, interlocks, overlaps, occlusions, and negative
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091180646626627732) · 22 August 2026<br>
+> GPT2 × blocks × reconstruction × aesthetic prompt × VOL.045
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091180646626627732">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 045 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+<div>
+
+> ROUNDED MODULE · SOURCE COLOUR · ISOMETRIC DEPTH · MATTE TOUCH · EDITORIAL MICROTYPE
+
+Distinctive volume, axes, curves, interlocks, overlaps, occlusions, and negative spaces become rounded tactile modules in a gentle isometric sculpture, coloured only from the source's own visual memory.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 045 right for you?
