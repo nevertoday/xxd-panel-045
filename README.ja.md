@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 045
+# 🦁 XXD Panel 045｜癒しのブロック都市
 
 ### 元写真を、丸く触れられる穏やかなブロック彫刻へ
 

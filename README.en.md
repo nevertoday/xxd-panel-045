@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 045
+# 🦁 XXD Panel 045｜Cozy Block City
 
 ### Rebuild the source as a gentle tactile block sculpture
 

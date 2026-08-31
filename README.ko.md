@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 045
+# 🦁 XXD Panel 045｜힐링 블록 도시
 
 ### 원본을 둥글고 촉각적인 치유 블록 조각으로
 
