@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-045
-description: "Create XXD Panel 045 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-045 or requests the exact Panel 045 style."
+description: "XXD Panel 045｜Cozy Block City: rebuilds the photo's subject as a soothing 3D isometric block sculpture — rounded, simple modules with soft matte surfaces like paper pulp, wood, pastel wax or soft material, stacked, nested, staggered and partly floating to keep the subject's proportions, curves and negative space, with soft shadows and generous whitespace. Colours are analysed from each photo and made lighter, clearer and gentler, with a few lively accents. A two-to-five-word title, a few tags, numbers or direction words (no years) run along block edges and seams. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-045 or asks for soft toy-block sculptures, rounded isometric 3D or cosy art-toy style from a photo."
 ---
 
 # XXD Panel 045

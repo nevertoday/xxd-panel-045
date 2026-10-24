@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 045｜Cozy Block City: rebuilds the photo's subject as a soothing 3D isometric block sculpture — rounded, simple modules with soft matte surfaces like paper pulp, wood, pastel wax or soft material, stacked, nested, staggered and partly floating to keep the subject's proportions, curves and negative space, with soft shadows and generous whitespace. Colours are analysed from each photo and made lighter, clearer and gentler, with a few lively accents. A two-to-five-word title, a few tags, numbers or direction words (no years) run along block edges and seams. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-045 or asks for soft toy-block sculptures, rounded isometric 3D or cosy art-toy style from a photo.",
+  "short_description": "治愈积木城：把照片主体搭成一件圆润哑光、配色取自原图的等距治愈积木雕塑",
+  "zh-CN": {
+    "name": "治愈积木城",
+    "tagline": "把照片主体重新搭成一件圆润、可触、颜色温柔的积木雕塑。",
+    "look": "主体被拆开再挑选，用圆润简洁的模块重新搭成一件有 3D 等距空间感的积木雕塑：体块大小不一、高低错层、前后穿插，局部悬浮，保留原物的比例、曲线和负空间。积木是细腻哑光的质感，像纸浆、木头、粉蜡或软材料，边角圆润，阴影轻柔。颜色从每张照片里分析出来，提亮、净化成更柔和清澈的色彩，只点几处鲜活的颜色。文字是一个 2 到 5 个词的标题，配少量地点、编号、方向词或小注释，不写年份，沿积木边缘和缝隙排列。",
+    "traits": ["圆润模块", "等距纵深", "哑光触感", "源图色", "治愈"],
+    "good": [
+      "体量和比例有特点的建筑或物件：一座小房子、一座灯塔、一盏台灯、一辆小火车",
+      "形态圆润的动物和植物：一只猫、一只企鹅、一棵大树、一盆多肉",
+      "想做成治愈系海报、头像或桌面壁纸的照片"
+    ],
+    "poor": [
+      "需要保留精细纹理或文字的图：书页、刺绣、复杂铭牌",
+      "人很多、动作复杂的场面，积木会难以分清每个人",
+      "想要乐高式复刻、像素方块、塑料高光或儿童卡通玩具的效果"
+    ]
+  },
+  "en": {
+    "name": "Cozy Block City",
+    "tagline": "Rebuilds the subject of your photo as a rounded, touchable block sculpture in gentle colours.",
+    "look": "The subject is taken apart, edited and rebuilt from simple rounded modules into a block sculpture with 3D isometric depth: blocks of different sizes at staggered heights, slotting in front of and behind one another and sometimes floating, keeping the original's proportions, curves and negative space. The blocks have a fine matte finish like paper pulp, wood, pastel wax or soft material, with rounded corners and gentle shadows. Colours are read from each photo, then lightened and cleaned into softer, clearer tones with just a few lively accents. Text is a two-to-five-word title with a few places, numbers, direction words or tiny notes, never a year, set along block edges and seams.",
+    "traits": ["Rounded modules", "Isometric depth", "Matte touch", "Colours from the photo", "Soothing"],
+    "good": [
+      "Buildings or objects with characterful volume and proportions: a small house, a lighthouse, a desk lamp, a little train",
+      "Animals and plants with rounded forms: a cat, a penguin, a big tree, a pot of succulents",
+      "Photos you want as a soothing poster, an avatar or a desktop wallpaper"
+    ],
+    "poor": [
+      "Images that must keep fine texture or text: book pages, embroidery, detailed nameplates",
+      "Crowded scenes with complex action, where individual people become hard to tell apart",
+      "Requests for a LEGO-style copy, pixel cubes, glossy plastic or children's cartoon toys"
+    ]
+  },
+  "ja": {
+    "name": "癒しのブロック都市",
+    "tagline": "写真の主役を、丸く、触れたくなる、やさしい色のブロック彫刻に組み直します。",
+    "look": "主役をいったん分解して取捨選択し、丸くシンプルなモジュールで 3D の等角的な奥行きをもつブロック彫刻に組み直します。大小のブロックが高さをずらし、前後に差し込まれ、ところどころ浮かびながら、元の比率、曲線、余白の形を保ちます。ブロックは紙粘土、木、パステルワックス、柔らかい素材のような繊細なつや消しで、角は丸く影はやわらかです。色は一枚ごとに写真から読み取り、明るく濁りのない柔らかな色に整え、生き生きした差し色を数か所だけ置きます。文字は二〜五語のタイトルに、少しの地名、番号、方角の言葉、小さな注記を添え、年号は入れずにブロックの縁や継ぎ目に沿わせます。",
+    "traits": ["丸いモジュール", "等角の奥行き", "つや消しの手ざわり", "写真から取った色", "癒し"],
+    "good": [
+      "量感や比率に特徴のある建物や物：小さな家、灯台、電気スタンド、小さな汽車",
+      "丸みのある動物や植物：猫、ペンギン、大きな木、多肉植物の鉢",
+      "癒し系のポスター、アイコン、デスクトップ壁紙にしたい写真"
+    ],
+    "poor": [
+      "細かな質感や文字を残す必要がある画像：本のページ、刺繍、細かな銘板",
+      "人が多く動きの複雑な場面（ブロックでは一人ひとりを見分けにくくなります）",
+      "LEGO 風の再現、ピクセルの立方体、プラスチックの光沢、子ども向けキャラクター玩具を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "힐링 블록 도시",
+    "tagline": "사진의 주인공을 둥글고 만지고 싶은, 부드러운 색의 블록 조각으로 다시 쌓습니다.",
+    "look": "주인공을 한 번 해체하고 골라낸 뒤, 둥글고 단순한 모듈로 3D 아이소메트릭 깊이감이 있는 블록 조각을 다시 쌓습니다. 크기가 다른 블록이 높낮이를 엇갈리고 앞뒤로 끼워지며 군데군데 떠 있어, 원래의 비율, 곡선, 빈 공간의 형태를 지킵니다. 블록은 종이 반죽, 나무, 파스텔 왁스, 말랑한 소재 같은 섬세한 무광 질감이며 모서리는 둥글고 그림자는 부드럽습니다. 색은 사진마다 읽어 내 더 밝고 맑고 부드럽게 다듬고, 생기 있는 포인트 색은 몇 군데만 둡니다. 글자는 두 단어에서 다섯 단어의 제목에 약간의 지명, 번호, 방향어, 작은 메모를 곁들이며, 연도는 쓰지 않고 블록 가장자리와 이음매를 따라 놓습니다.",
+    "traits": ["둥근 모듈", "아이소메트릭 깊이", "무광 촉감", "사진에서 온 색", "힐링"],
+    "good": [
+      "부피와 비율에 개성이 있는 건물이나 사물: 작은 집, 등대, 스탠드 조명, 작은 기차",
+      "형태가 둥근 동물과 식물: 고양이, 펭귄, 큰 나무, 다육 화분",
+      "힐링 포스터, 프로필 사진, 바탕화면으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "섬세한 질감이나 글자를 살려야 하는 이미지: 책 페이지, 자수, 정교한 명판",
+      "사람이 많고 동작이 복잡한 장면(블록으로는 한 사람 한 사람을 구분하기 어렵습니다)",
+      "레고식 복제, 픽셀 큐브, 플라스틱 광택, 어린이 캐릭터 장난감 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مدينة المكعبات المريحة",
+    "tagline": "يعيد بناء موضوع صورتك منحوتةَ مكعبات مستديرة تغري باللمس وبألوان لطيفة.",
+    "look": "يُفكَّك الموضوع ويُنتقى منه ثم يُعاد بناؤه من وحدات مستديرة بسيطة في منحوتة مكعبات ذات عمق إيزومتري ثلاثي الأبعاد: كتل بأحجام مختلفة على ارتفاعات متدرجة، تتداخل أماماً وخلفاً وتطفو أحياناً، مع الحفاظ على نِسب الأصل ومنحنياته وفراغاته. للمكعبات ملمس مطفأ ناعم كعجينة الورق أو الخشب أو شمع الباستيل أو المواد الطرية، بزوايا مستديرة وظلال خفيفة. تُقرأ الألوان من كل صورة ثم تُفتَّح وتُصفّى إلى درجات أنعم وأصفى مع لمسات حيوية قليلة. النص عنوان من كلمتين إلى خمس، مع بضعة أماكن أو أرقام أو كلمات اتجاه أو ملاحظات صغيرة، دون ذكر سنة، يمتد على حواف المكعبات وفواصلها.",
+    "traits": ["وحدات مستديرة", "عمق إيزومتري", "ملمس مطفأ", "ألوان من الصورة", "مريح"],
+    "good": [
+      "مبانٍ أو أشياء بأحجام ونِسب مميزة: بيت صغير، منارة، مصباح مكتب، قطار صغير",
+      "حيوانات ونباتات بأشكال مستديرة: قطة، بطريق، شجرة كبيرة، أصيص نباتات عصارية",
+      "صور تريدها ملصقاً مريحاً أو صورة شخصية أو خلفية لسطح المكتب"
+    ],
+    "poor": [
+      "صور يجب أن تحتفظ بملمس دقيق أو نصوص: صفحات كتب، تطريز، لوحات أسماء مفصلة",
+      "مشاهد مزدحمة بحركة معقدة، يصعب فيها تمييز كل شخص بالمكعبات",
+      "طلب نسخة على طريقة ليغو أو مكعبات بكسل أو بلاستيك لامع أو ألعاب كرتونية للأطفال"
+    ]
+  }
+}
